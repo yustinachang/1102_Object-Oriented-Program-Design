@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cname\ caddress\ cphno
+comment0.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Customer\r\n
+comment1.params=
+comment1.target=void\ displayCustInfo()
+comment1.text=\ \ \r\n\ \r\n\ \r\n\ Disply\ Customer\ Information\r\n
+numComments=2
